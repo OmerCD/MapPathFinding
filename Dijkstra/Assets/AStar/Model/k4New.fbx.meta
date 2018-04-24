@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 2989b32e419de93429f2bca5108651b9
+timeCreated: 1524517755
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component1
+    100002: Component10
+    100004: Component11
+    100006: Component12
+    100008: Component13
+    100010: Component14
+    100012: Component15
+    100014: Component16
+    100016: Component2
+    100018: Component3
+    100020: Component4
+    100022: Component5
+    100024: Component6
+    100026: Component7
+    100028: Component8
+    100030: Component9
+    100032: DOOR1_1
+    100034: DOOR1_10
+    100036: DOOR1_11
+    100038: DOOR1_12
+    100040: DOOR1_13
+    100042: DOOR1_14
+    100044: DOOR1_15
+    100046: DOOR1_16
+    100048: DOOR1_2
+    100050: DOOR1_3
+    100052: DOOR1_4
+    100054: DOOR1_5
+    100056: DOOR1_6
+    100058: DOOR1_7
+    100060: DOOR1_8
+    100062: DOOR1_9
+    100064: //RootNode
+    100066: Mesh1
+    100068: Mesh10
+    100070: Mesh11
+    100072: Mesh12
+    100074: Mesh13
+    100076: Mesh14
+    100078: Mesh15
+    100080: Mesh16
+    100082: Mesh17
+    100084: Mesh2
+    100086: Mesh3
+    100088: Mesh4
+    100090: Mesh5
+    100092: Mesh6
+    100094: Mesh7
+    100096: Mesh8
+    100098: Mesh9
+    400000: Component1
+    400002: Component10
+    400004: Component11
+    400006: Component12
+    400008: Component13
+    400010: Component14
+    400012: Component15
+    400014: Component16
+    400016: Component2
+    400018: Component3
+    400020: Component4
+    400022: Component5
+    400024: Component6
+    400026: Component7
+    400028: Component8
+    400030: Component9
+    400032: DOOR1_1
+    400034: DOOR1_10
+    400036: DOOR1_11
+    400038: DOOR1_12
+    400040: DOOR1_13
+    400042: DOOR1_14
+    400044: DOOR1_15
+    400046: DOOR1_16
+    400048: DOOR1_2
+    400050: DOOR1_3
+    400052: DOOR1_4
+    400054: DOOR1_5
+    400056: DOOR1_6
+    400058: DOOR1_7
+    400060: DOOR1_8
+    400062: DOOR1_9
+    400064: //RootNode
+    400066: Mesh1
+    400068: Mesh10
+    400070: Mesh11
+    400072: Mesh12
+    400074: Mesh13
+    400076: Mesh14
+    400078: Mesh15
+    400080: Mesh16
+    400082: Mesh17
+    400084: Mesh2
+    400086: Mesh3
+    400088: Mesh4
+    400090: Mesh5
+    400092: Mesh6
+    400094: Mesh7
+    400096: Mesh8
+    400098: Mesh9
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh15
+    2300014: Mesh16
+    2300016: Mesh17
+    2300018: Mesh2
+    2300020: Mesh3
+    2300022: Mesh4
+    2300024: Mesh5
+    2300026: Mesh6
+    2300028: Mesh7
+    2300030: Mesh8
+    2300032: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh15
+    3300014: Mesh16
+    3300016: Mesh17
+    3300018: Mesh2
+    3300020: Mesh3
+    3300022: Mesh4
+    3300024: Mesh5
+    3300026: Mesh6
+    3300028: Mesh7
+    3300030: Mesh8
+    3300032: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh16
+    4300032: Mesh17
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_004
+    second: {fileID: 2100000, guid: ee6f2c1337c02e34f8935940752f54ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_L05
+    second: {fileID: 2100000, guid: fe671ab6fb007634fb1332ddbb352df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: e71419bcf9241604189ead259fe61bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granite_Light_Gray
+    second: {fileID: 2100000, guid: d44ebd10053bf954eb5903ff5ae30df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Blue
+    second: {fileID: 2100000, guid: d094968f00a51494e97c70d223df559e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Blue1
+    second: {fileID: 2100000, guid: 8f4b97d1f93f9854ea9dbe94bf7c1384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: d1a432c7530a60b40b776e4b6307d50c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

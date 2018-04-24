@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.0b9 (d73e98081237)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects\5\Dijkstra\Dijkstra_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.871508 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2608 -> priority: 1 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RockVR/Video/Demo/Demo_01_VideoCapture.unity
+  isLoaded: 1
+  isActive: 1
