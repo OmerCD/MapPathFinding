@@ -208,7 +208,7 @@ namespace RockVR.Video
             }
             if (mode == ModeType.LOCAL)
             {
-                filePath = PathConfig.SaveFolder + StringUtils.GetMp4FileName(StringUtils.GetRandomString(5));
+                filePath = PathConfig.SaveFolder + StringUtils.GetMp4FileName(PlayerController.HostName);
             }
             // Create a RenderTexture with desired frame size for dedicated
             // camera capture to store pixels in GPU.
@@ -751,7 +751,7 @@ namespace RockVR.Video
         /// </summary>
         public bool Muxing()
         {
-            filePath = PathConfig.SaveFolder + StringUtils.GetMp4FileName(StringUtils.GetRandomString(5));
+            filePath = PathConfig.SaveFolder + StringUtils.GetMp4FileName(PlayerController.HostName);
             System.IntPtr libAPI = MuxingLib_Get(
                 videoCapture.bitrate,
                 filePath,

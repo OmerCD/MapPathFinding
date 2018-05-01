@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private RockVR.Video.VideoCaptureCtrl _video;
     [SerializeField] private bool _debugStart;
-
+    public static string HostName = "DebugYokAnam";
     // Use this for initialization
     void Start()
     {
@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
             var cmd = System.Environment.GetCommandLineArgs();
             var obj = GameObject.Find(cmd[1]);
             var agentLoc = GameObject.Find(cmd[2]);
-            var hostName = cmd[3];
+            HostName = cmd[3];
             transform.position = agentLoc.transform.position;
             transform.rotation = agentLoc.transform.rotation;
             _agent.destination = obj.transform.position;
