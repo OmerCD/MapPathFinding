@@ -74,6 +74,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 using System.Runtime.InteropServices;
+using System;
 
 namespace RockVR.Video
 {
@@ -84,6 +85,7 @@ namespace RockVR.Video
     /// </summary>
     public class VideoCapture : VideoCaptureBase
     {
+        public static Action ProcessFinished;
         /// <summary>
         /// Get or set the current status.
         /// </summary>
@@ -779,6 +781,7 @@ namespace RockVR.Video
             if (VideoCaptureCtrl.instance.debug)
             {
                 Debug.Log("[VideoMuxing::Muxing] Mux process finish!");
+                VideoCapture.ProcessFinished();
                 //todo Process finished. Send it to the client
             }
             return true;
